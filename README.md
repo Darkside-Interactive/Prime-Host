@@ -1,2 +1,4 @@
 # Prime-Host
-PRIME HOST : Web-hosting for users who wants to manage their servers on global machines
+
+**prime-host.com** - коммерческий проект Darkside Interactive по созданию игрового хостинга, на котором люди могут арендовывать
+сервера и использовать их для своих целей
